@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  gap: 40px;   /* ruimte tussen blokken */
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+/* Kleuren */
+.blue { background: blue; }
+.black { background: black; }
+.red { background: red; }
+.green { background: green; }
